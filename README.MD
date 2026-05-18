@@ -187,7 +187,6 @@ Tokens are returned from the `/api/login` endpoint and expire after **1 day**.
 - `token` (String, unique)
 - `status` — `"pending"` | `"accepted"`
 - `expiresAt` (Date)
-
 ---
 
 ## License
